@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ZaxarhsGe/ZaxarhsGe/blob/main/a-sleek-minimalistic-digital-banner-feat_5S7u9ZAFQwqMkA023MYslw_Fly1F52DROqXe-H5OnDBKg.jpeg" alt="Profile Banner" width="100%">
+  <img src="https://github.com/ZaxarhsGe/ZaxarhsGe/blob/main/AI_Mind_minimal.png" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm George 👋</h1>
