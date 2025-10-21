@@ -38,6 +38,7 @@ I enjoy building projects that combine **Python, AI, and web technologies** and 
 ## 📊 GitHub Stats
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaxarhsGe&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaxarhsGe&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZaxarhsGe&theme=radical&hide_border=true)  
 
 ---
 
