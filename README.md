@@ -35,12 +35,12 @@ I enjoy building projects that combine **Python, AI, and web technologies** and 
 
 ## 📊 GitHub Stats
 
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=radical)  
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=<ZaxarhsGe>&show_icons=true&theme=radical)  
 
 ---
 
 ## 📫 Contact Me
-- Email: `maxilaria.gr@gmail.com`  
+- Email: `gzachrs@gmail.com`  
 - LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
 
 ---
