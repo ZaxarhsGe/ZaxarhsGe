@@ -7,7 +7,7 @@
   🎓 BSc (Hons) in Computer Science | Full Stack Developer | Machine Learning & AI Enthusiast
 </p>
 <p align="center">
-  I build **full-stack applications**, deploy **AI-powered solutions**, and love exploring **cloud, DevOps, and NLP technologies**.
+  I build Full-stack applications,AI-powered solutions , and love exploring Cloud, DevOps, and NLP technologies.
 </p>
 
 ---
@@ -69,8 +69,8 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="mailto:maxilaria.gr@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/<your-github-username>"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/georgios-zacharis-pm/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ZaxarhsGe"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
