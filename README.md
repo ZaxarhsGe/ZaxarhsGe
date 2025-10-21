@@ -42,5 +42,5 @@ I enjoy building projects that combine **Python, AI, and web technologies** and 
 
 ## 📫 Contact Me
 - Email: `gzachrs@gmail.com`  
-- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
+- LinkedIn: [linkedin.com/in/your-linkedin]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/georgios-zacharis-pm/)  
 
