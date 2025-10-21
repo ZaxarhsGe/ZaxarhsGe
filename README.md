@@ -29,8 +29,6 @@ Currently exploring **Python, ML, NLP, Flask, and AWS** while contributing to op
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
@@ -48,7 +46,7 @@ Currently exploring **Python, ML, NLP, Flask, and AWS** while contributing to op
 ---
 
 ## 📫 Connect with Me
-- ✉ Email: `maxilaria.gr@gmail.com`  
+- ✉ Email: `gzachrs@gmail.com`  
 - 🔗 LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/georgios-zacharis-pm/)  
 
 ---
