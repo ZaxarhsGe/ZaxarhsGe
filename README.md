@@ -36,7 +36,7 @@ I enjoy building projects that combine **Python, AI, and web technologies** and 
 ---
 
 ## 📊 GitHub Stats
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=<Georgios_Zacharis>&show_icons=true&theme=radical)  
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaxarhsGe&show_icons=true&theme=radical)  
 
 ---
 
