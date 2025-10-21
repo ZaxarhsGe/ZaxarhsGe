@@ -55,13 +55,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaxarhsGe&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaxarhsGe&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>&theme=radical&hide_border=true"/>
-  <img src="https://profile-counter.glitch.me/<your-github-username>/count.svg"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaxarhsGe&theme=radical&hide_border=true"/>
+  <img src="https://profile-counter.glitch.me/ZaxarhsGe/count.svg"/>
 </p>
 
 ---
