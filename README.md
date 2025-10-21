@@ -1,53 +1,77 @@
-# 👋 Hi, I'm George
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<your-github-username>/<your-github-username>/main/banner.png" alt="Profile Banner" width="100%">
+</p>
 
-🎓 **BSc (Hons) in Computer Science** | Full Stack Developer | Machine Learning Enthusiast  
-
-I build **full-stack applications** and deploy **AI-powered solutions** in the cloud.  
-Currently exploring **Python, ML, NLP, Flask, and AWS** while contributing to open-source projects.
+<h1 align="center">Hi, I'm George 👋</h1>
+<p align="center">
+  🎓 BSc (Hons) in Computer Science | Full Stack Developer | Machine Learning & AI Enthusiast
+</p>
+<p align="center">
+  I build **full-stack applications**, deploy **AI-powered solutions**, and love exploring **cloud, DevOps, and NLP technologies**.
+</p>
 
 ---
 
 ## 🚀 Technologies & Skills
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+</p>
 
-### Web & Backend
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+<p align="center">
+  <!-- Web & Backend -->
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+</p>
 
-### Machine Learning & Data
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FEE101?style=flat-square&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<p align="center">
+  <!-- ML & Data -->
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HuggingFace-FEE101?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+<p align="center">
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaxarhsGe&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaxarhsGe&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZaxarhsGe&theme=radical&hide_border=true)
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
-## 🌟 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/ZaxarhsGe/count.svg)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>&theme=radical&hide_border=true"/>
+  <img src="https://profile-counter.glitch.me/<your-github-username>/count.svg"/>
+</p>
 
 ---
 
 ## 📫 Connect with Me
-- ✉ Email: `gzachrs@gmail.com`  
-- 🔗 LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/georgios-zacharis-pm/)  
+<p align="center">
+  <a href="mailto:maxilaria.gr@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/<your-github-username>"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
